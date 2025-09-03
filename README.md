@@ -38,12 +38,13 @@ I specialize in building **secure, scalable, and production-ready web applicatio
 ⭐️ *Always open to collaboration, mentorship, and exciting projects.*
 
  
- 📊 GitHub Stats  
+
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Stephenindongo&show_icons=true&theme=default&title_color=0000FF&text_color=000000" width="400" height="200"/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenindongo&layout=compact&theme=default&title_color=0000FF&text_color=000000" width="400" height="200"/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stephenindongo&show_icons=true&theme=default&title_color=0000FF&text_color=000000" width="400" height="200"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenindongo&layout=compact&theme=default&title_color=0000FF&text_color=000000" width="400" height="200"/>
+</p>
 
 
 
