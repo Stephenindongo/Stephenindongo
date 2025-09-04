@@ -37,7 +37,7 @@ I specialize in building **secure, scalable, and production-ready web applicatio
 
   <p >
   If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  <a href="https://www.buymeacoffee.com/stephenindongo" target="_blank">
+  <a href="https://www.buymeacoffee.com/stephenindongo" target="_blank">                                  
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
   </a>
 </p>
