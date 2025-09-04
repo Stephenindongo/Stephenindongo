@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1 style="font-weight: bold; color: #000000; font-size: 36px;">
-    👋 Hi, I'm <span style="color:#0000FF;">Stephen</span>
+    👋 Hi, I'm <span style="color:#780000;">Stephen</span>
   </h1>
   
 </div>
@@ -33,7 +33,7 @@ I specialize in building **secure, scalable, and production-ready web applicatio
 
 -  Email: [indongostephen@gmail.com](mailto:indongostephen@gmail.com)  
 -  LinkedIn: [stephen-indongo](https://www.linkedin.com/in/stephen-indongo)  
--  Instagram: [kingsenecca](https://www.instagram.com/kingsenecca/)
+-  Instagram: [stephxcode](https://www.instagram.com/stephxcode/)
 
   <p >
   If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
