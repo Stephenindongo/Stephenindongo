@@ -48,8 +48,13 @@ I specialize in building **secure, scalable, and production-ready web applicatio
 
  
 
- 
-
+<p align="center">
+  📊 This week I spent my time on:
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephxcode&layout=compact"/><br>
+  
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stephenindongo&show_icons=true&theme=default&title_color=0000FF&text_color=000000" width="400" height="200"/><br>
   
