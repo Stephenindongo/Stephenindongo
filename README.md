@@ -16,8 +16,10 @@
 </div>
 
 
+<div align="center" style="font-family: 'Montserrat', sans-serif; font-size: 20px; color: #000000; line-height: 1.5;">
+  My goal is to help teams and solo founders go from idea → MVP → growth, faster and smarter.
+</div>
 
-I specialize in building **secure, scalable, and production-ready web applications** using modern JavaScript frameworks, cloud-native tools, and AI-assisted workflows. My goal is to help teams and solo founders go from idea → MVP → growth, faster and smarter.  
 
 
 
@@ -63,9 +65,9 @@ I specialize in building **secure, scalable, and production-ready web applicatio
 
  🌍 **Connect With Me**
 
-[![Email](https://img.shields.io/badge/Email-indongostephen@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indongostephen@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stephen--indongo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-indongo)  
-[![Instagram](https://img.shields.io/badge/Instagram-stephxcode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephxcode)  
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indongostephen@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-indongo)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephxcode)  
 
 **If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
 <p>
