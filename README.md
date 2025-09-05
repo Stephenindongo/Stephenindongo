@@ -1,10 +1,11 @@
 <div align="center">
-  
-  <h1 style="font-weight: bold; color: #000000; font-size: 36px;">
-    👋 Hi, I'm <span style="color:#780000;">Stephen</span>
-  </h1>
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Stephen+%22stephxcode%22+Indongo" alt="Typing Animation" />
+
 </div>
+
+
+
  
 
 🚀 Full-Stack Web Developer | Software Engineer | Founder | Educator 
