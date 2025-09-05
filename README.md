@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Stephen+%22stephxcode%22+Indongo" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&fontWeight=700&pause=0&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%20there!%20%F0%9F%91%8B;I'm%20Stephen%20%F0%9F%98%8A" alt="Typing Animation" />
 
 </div>
 
+---
 
 
- 
 
 🚀 Full-Stack Web Developer | Software Engineer | Founder | Educator 
 
