@@ -26,7 +26,7 @@
 ---
  <div align="center">
 
- 🛠️ **Tech Stack**
+🛠️ **Tech Stack**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -41,7 +41,11 @@
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-764ABC?style=for-the-badge&logo=websockets&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FFDC00?style=for-the-badge&logo=artificial-intelligence&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FFDC00?style=for-the-badge&logo=artificial-intelligence&logoColor=black)  
+![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 ---
