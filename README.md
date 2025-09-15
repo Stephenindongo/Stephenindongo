@@ -73,7 +73,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-indongo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephxcode)
 
-**If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
+**If you like what I do, maybe consider buying me a coffee/book** 🥺👉👈
 <p>
 
 <a href="https://www.buymeacoffee.com/stephenindongo" target="_blank">                                  
