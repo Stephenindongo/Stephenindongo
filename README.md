@@ -17,7 +17,7 @@
 
 
 <div align="center" style="font-family: 'Montserrat', sans-serif; font-size: 20px; color: #000000; line-height: 1.5;">
-  My goal is to help teams and solo founders go from idea → MVP → growth, faster and smarter.
+  I'm turning ideas into masterpieces and  sharing useful tools, cool tips & AI insights.
 </div>
 
 
