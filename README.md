@@ -28,7 +28,7 @@
 ---
  <div align="center">
 
-🛠️ **Tech Stack**
+🛠️ **Tech Stack/Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -54,7 +54,7 @@
 
  📌**Current Focus**
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/Stephenindongo/Stephenindongo/blob/main/transparent_gitgif.gif" />
+
 <p align="center">
 
 |   |
