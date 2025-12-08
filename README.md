@@ -7,8 +7,10 @@
 ---
 
 <div align="center">
+<img align="" alt="coding-gif" width="400" src="https://github.com/Stephenindongo/Stephenindongo/blob/main/transparent_gitgif.gif" />
+<p align="center">
 
-![Full-Stack Web Developer](https://img.shields.io/badge/Full--Stack%20Web%20Developer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
+
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Founder](https://img.shields.io/badge/Founder-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Educator](https://img.shields.io/badge/Educator-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
@@ -52,6 +54,7 @@
 
  📌**Current Focus**
 
+<img align="left" alt="coding-gif" width="400" src="https://github.com/Stephenindongo/Stephenindongo/blob/main/transparent_gitgif.gif" />
 <p align="center">
 
 |   |
@@ -74,13 +77,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephxcode)
 
 **If you like what I do, maybe consider buying me a coffee/book** 🥺👉👈
+
 <p>
-
-<a href="https://www.buymeacoffee.com/stephenindongo" target="_blank">                                  
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
-</a>
+  <a href="https://www.buymeacoffee.com/stephenindongo">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
 </p>
-
 ---
 
 ⭐️ **Always open to collaboration, mentorship, and exciting projects.**
@@ -93,6 +95,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenindongo&theme=default&hide_border=false" width="400" />
 </p>
 
+<!-- Ending -->
+<a href="https://github.com/Stephenindongo/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/Stephenindongo/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+</a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<p align="center">
+  🙌✌️ This README is designed by <strong>@stephxcode.</strong>
+</p>
 
 
 </div>
