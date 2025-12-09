@@ -1,7 +1,3 @@
-<!-- MasterHead -->
-<a >
-  <img src="https://github.com/Stephenindongo/Stephenindongo/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto" />
-</a>
 
 <div align="center" style="border: 2px solid #00BFFF; border-radius: 15px; padding: 25px; display: inline-block; background-color: #f5f5f5;">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&fontWeight=700&pause=0&color=00BFFF&center=true&vCenter=true&width=800&lines=Thank%20you%20for%20visiting%20my%20GitHub!%20%F0%9F%91%8B;I%20appreciate%20your%20support%20%F0%9F%98%8A" alt="Typing Animation" />
