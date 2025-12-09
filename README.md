@@ -111,6 +111,10 @@
   🙌✌️ This README is designed by <strong>@stephxcode.</strong>
 </p>
 
+<!-- MasterHead -->
+<a href="https://github.com/Stephenindongo/Stephenindongo/blob/main/wallpaperflare.com_wallpaper(6).jpg">
+  <img src="https://github.com/Stephenindongo/Stephenindongo/blob/main/wallpaperflare.com_wallpaper(6).jpg" alt="Fallout GIF" style="width:auto; height:auto" />
+</a>
 
 </div>
 
