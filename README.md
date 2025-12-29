@@ -25,9 +25,25 @@
 
 
 
-
 ---
  <div align="center">
+   
+📌**Current Focus**
+
+
+<p align="center">
+
+|   |
+|---|
+| 💡 Helping solo founders & junior developers build SaaS MVPs |
+| ⚙️ Creating production-grade apps with modern workflows       |
+| 🤖 Exploring AI-assisted coding & automation                  |
+| 🌱 Growing a community of dedicated and committed tech enthusiasts |
+
+</p>
+
+---
+
 
 🛠️ **Tech Stack/Tools**
 
@@ -53,24 +69,6 @@
 
 ---
 
- 📌**Current Focus**
-
-
-<p align="center">
-
-|   |
-|---|
-| 💡 Helping solo founders & junior developers build SaaS MVPs |
-| ⚙️ Creating production-grade apps with modern workflows       |
-| 🤖 Exploring AI-assisted coding & automation                  |
-| 🌱 Growing a community of dedicated and committed tech enthusiasts |
-
-</p>
-
-
-
----
-
 🌍 **Connect With Me**
 
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indongostephen@gmail.com)
@@ -84,7 +82,7 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
----
+
 
 ⭐️ **Always open to collaboration, mentorship, and exciting projects.**
 
@@ -96,21 +94,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenindongo&theme=default&hide_border=false" width="400" />
 </p>
 
-<!-- Ending -->
-<a href="https://github.com/Stephenindongo/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/Stephenindongo/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
-</a>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<p align="center">
-  🙌✌️ This README is designed by <strong>@stephxcode.</strong>
-</p>
+
 
 <!-- MasterHead -->
 <a href="https://github.com/Stephenindongo/Stephenindongo/blob/main/wallpaperflare.com_wallpaper(6).jpg">
   <img src="https://github.com/Stephenindongo/Stephenindongo/blob/main/wallpaperflare.com_wallpaper(6).jpg" alt="Fallout GIF" style="width:auto; height:auto" />
 </a>
 
+<p align="center">
+  🙌✌️ This README is designed by <strong>@stephxcode.</strong>
+</p>
 </div>
 
